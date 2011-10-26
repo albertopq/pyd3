@@ -1,4 +1,4 @@
-== Table Of Contents ==
+== Table Of Contents
     * What Is PyD3 About?
     * Which ID3 Tags Can Be Treated?
     * Which Operating Systems Are Supported?
@@ -17,22 +17,22 @@
 
 
 
-=What Is PyD3 About?=
+=What Is PyD3 About?
 PyD3 is a quick ID3 data management of MP3 files which it has been built up into a script process. PyD3 will put your music library into place.
 
 
-=Which ID3 Tags Can Be Treated?=
+=Which ID3 Tags Can Be Treated?
 The ID3 tags which can be treated are: Track number, Album, Artist, Title, Genre, Year. 
 Images can be attached to a tune: Front Cover, Back Cover & Media (e.g. label side of CD).
 
 Note: Data of other ID3 tags will be removed.
 
 
-=Which Operating Systems Are Supported?=
+=Which Operating Systems Are Supported?
 PyD3 is a cross-platform app. This means that the same program will run on multiple platforms without modification. Microsoft Windows and Unix based systems like GNU/Linux and OSX are supported.
 
 
-=What I Need To PyD3 My Music Library?=
+=What I Need To PyD3 My Music Library?
 This guide is designed to point you to the best information about getting started with PyD3. 
 
     Prerequisites
@@ -70,14 +70,14 @@ This guide is designed to point you to the best information about getting starte
         After that, write python reference program --if you have an alias, puts easier the execution--
             > python pyd3_it.py /path/to/your/directory/music /target/path/directory/
 
-=It Has A License?=
+=It Has A License?
 PyD3 is open source which means that it is free for anyone to use and the source code is available for anyone to look at and modify it.
 Also anyone can contribute on fixes or enhancements to the project.
 
 
-=It Has Any Cost?=
+=It Has Any Cost?
 PyD3 is free to edit and also free to use it --you can use it free as any times you want with no cost. No cash is demanded, but it will be appreciated. ;). 
 
 
-=What Is Next?=
+=What Is Next?
 Use it as many times you want/need. If any improvement raises into you or a bug is found, share it at jordi.marin.valle(at)gmail.com.
